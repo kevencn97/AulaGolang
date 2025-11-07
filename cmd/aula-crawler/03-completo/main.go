@@ -233,6 +233,8 @@ func main() {
 		"https://stackoverflow.com/questions/tagged/go",
 		"https://pkg.go.dev",
 		"https://play.golang.org",
+
+		"https://facinpro.edu.br/",
 	}
 
 	// ═══════════════════════════════════════

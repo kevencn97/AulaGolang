@@ -1,0 +1,12 @@
+URL,Title,H1,H2_Count,Status_Code,Duration_ms,Error
+https://go.dev,The Go Programming Language,"Build simple, secure, scalable systems with Go",4,200,2614,
+https://golang.org,The Go Programming Language,"Build simple, secure, scalable systems with Go",4,200,2774,
+https://go.dev/learn,Get Started - The Go Programming Language,Install the latest version of Go,0,200,2843,
+https://stackoverflow.com/questions/tagged/go,Just a moment...,,0,403,150,
+https://go.dev/solutions,Why Go - The Go Programming Language,Why Go,3,200,452,
+https://golang.org/doc,Documentation - The Go Programming Language,Documentation,9,200,3071,
+https://pkg.go.dev,Go Packages - Go Packages,,2,200,373,
+https://golang.org/pkg,Standard library - Go Packages,Standard library,6,200,3658,
+https://github.com/golang,Go · GitHub,"Search code, repositories, users, issues, pull requests...",4,200,981,
+https://play.golang.org,Go Playground - The Go Programming Language,The Go Playground,0,200,1054,
+https://facinpro.edu.br/,Home - FacInPro,FacInPro - Projetamos grandes futuros para quem quer trilhar novos caminhos.,28,200,1705,
